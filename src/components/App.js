@@ -142,7 +142,7 @@ class App extends Component {
           <img className ="spotify-logo" src="spotify.png" />
         </div>
         <button className="btn btn-success">
-          <a href='http://localhost:8888/login'> Log in to Spotify</a>
+          <a href='https://mcmanus-spotify-auth-server.herokuapp.com/login'> Log in to Spotify</a>
         </button>
       </div>
     )
